@@ -1,7 +1,5 @@
 # MLOps Pipeline - Linear Regression on California Housing Dataset
 
-![CI/CD Pipeline](https://github.com/BhardwajAkash29/mlops-linear-regression/actions/workflows/ci.yml/badge.svg)
-
 A complete MLOps pipeline implementation for Linear Regression using the California Housing dataset, featuring automated training, testing, manual quantization, containerization, and continuous integration/deployment.
 
 ## Project Overview
